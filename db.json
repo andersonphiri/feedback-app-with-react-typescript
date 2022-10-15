@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "text": "the user experience is fine",
+      "rating": 10,
+      "id": "07e14105-952a-45a8-822b-0553a696ff89"
+    },
+    {
+      "id": "a3e36d08-f113-4dd3-96a3-caab6f4f01e9",
+      "rating": 9,
+      "text": "update from ui again"
+    },
+    {
+      "text": "second from ",
+      "rating": 2,
+      "id": "a89c81b5-2442-462a-8530-e08c3d98e5ee"
+    }
+  ]
+}

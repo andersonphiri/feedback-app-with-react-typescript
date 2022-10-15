@@ -1,0 +1,13 @@
+@host = localhost
+@port = 5000
+@contentType = x-www-form-urlencoded
+// application/json
+@createUrl = http://{{host}}:{{port}}/feedback
+
+@updateId = cb5qamvngr9jca6b9jbg
+
+POST {{createUrl}}
+
+Content-Type: {{contentType}}
+
+{"text":"vsdsfsfddfssd","rating":7}

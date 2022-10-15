@@ -1,0 +1,1 @@
+export type OneOrMore<TType extends Element> = TType | TType[];
